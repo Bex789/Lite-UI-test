@@ -1,0 +1,39 @@
+{
+    "users": [
+        {
+            "id": "",
+            "name": "",
+            "password": ""
+        },
+        {
+            "id": "000",
+            "name": "000",
+            "password": "000"
+        },
+        {
+            "id": "001",
+            "name": "Sandra",
+            "password": "Raptor"
+        },
+        {
+            "id": "002",
+            "name": "Bob",
+            "password": "Swarm"
+        },
+        {
+            "id": "003",
+            "name": "Tim",
+            "password": "Stealth"
+        },
+        {
+            "id": "004",
+            "name": "Jeff",
+            "password": "Vampire"
+        },
+        {
+            "id": "005", 
+            "name": "Rose", 
+            "password": "Flying"
+        }
+    ]
+}
